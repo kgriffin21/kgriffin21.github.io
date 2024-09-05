@@ -7,9 +7,9 @@ p{
     font-family:fantasy;
     font-size:2em;
 }
-a:visted{
-    color:bisque;
-}
 a:hover{
     font-size:1.5em;
+}
+a:visited{
+    color:bisque;
 }
