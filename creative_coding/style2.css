@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(44, 189, 205);
+}
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:1.8em;
+}
+img{
+    max-width:80%;
+    height:auto;
+}
+a:hover{
+    font-size:1.5em;
+}
+a:visited{
+    color:rgb(216, 27, 90);
+}
